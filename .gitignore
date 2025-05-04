@@ -36,6 +36,7 @@ Packages/packages-lock.json
 
 # Configuración local de Rider
 .idea/
+.vs
 
 # Autogenerados de la escena de pruebas
 Assets/AutoSaveScene*.unity
